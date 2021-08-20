@@ -1,0 +1,39 @@
+Registros MongoDB
+Collectios: asignaturas
+Por Eduardo Arizala Dueñas
+----------------------------------------------------------------
+{
+    "codigo": "00301",
+    "nombre": "Redes 2",
+    "creditos": 3,
+    "horas": 120
+}
+
+{
+    "codigo": "00302",
+    "nombre": "Programacion Orientada a  Objetos",
+    "creditos": 4,
+    "horas": 160
+}
+
+{
+    "codigo": "00420",
+    "nombre": "Filosofia de las Ciencias Computacionales",
+    "creditos": 3,
+    "horas": 120
+}
+
+{
+    "codigo": "00100",
+    "nombre": "Tutorias de Acompañamiento",
+    "creditos": 2,
+    "horas": 80
+}
+
+{
+    "codigo": "00401",
+    "nombre": "Internet de las Cosas",
+    "creditos": 2,
+    "horas": 80
+}
+----------------------------------------------------------------
